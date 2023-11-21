@@ -13,7 +13,7 @@
 }
 
 body {
-  background-color: rgb(56, 55, 55);
+  background-image: linear-gradient(gray, black);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
